@@ -1,0 +1,19 @@
+mdb-side-nav {
+  padding: 1rem;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 1;
+  color: #ffffff;
+
+  .avatar {
+    .avatar-img {
+      max-width: 150px;
+      max-height: 150px;
+    }
+  }
+}
+
+
